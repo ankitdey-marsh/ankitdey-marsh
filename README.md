@@ -8,6 +8,27 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Work+Sans&display=swap" rel="stylesheet">
+  <style>
+    .text_heading{
+  font-family: Work Sans;
+}
+.text{
+  font-family: Work Sans;
+  line-height: 1rem;
+}
+h4{
+  margin:0.5rem 0;
+}
+hr{
+  border: 1.4px solid grey;
+  border-radius: 100px;
+  margin-top: 20px;
+  width: 80%;
+}
+div{
+  text-align:center;
+}
+  </style>
 </head>
 
 <body>
