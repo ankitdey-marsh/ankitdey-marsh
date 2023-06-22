@@ -20,7 +20,7 @@
   line-height: 1rem">⚽ Hobbies besides coding is football</h4>
     </ul></li>
   <hr>
-  <h1 style="font-family: Work Sans">My Skills</h1>
+  <h1 align="center" style="font-family: Work Sans">My Skills</h1>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,nodejs"style:"text-align:center">
   </div>
