@@ -11,7 +11,7 @@
 </head>
 
 <body>
-  <h1 font-family: Work Sans>I'm Ankit</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Work+Sans&size=40&duration=2000&pause=2000&color=F7F7F7&width=435&height=70&lines=I'm+Ankit;Je+suis+Ankit;Yo+soy+Ankit;%E7%A7%81%E3%81%AF%E3%82%A2%E3%83%B3%E3%82%AD%E3%83%83%E3%83%88%E3%81%A7%E3%81%99" alt="Typing SVG" /></a>
   <ul>
   <li><h4 style="font-family: Work Sans; line-height: 1rem ">🎓 Pursuing BTECH CSE from KIIT Bhubaneswar</h4></li>
   <li><h4 style="font-family: Work Sans;
