@@ -8,12 +8,16 @@
 
 - <a href="https://kiit.ac.in/">🎓 </a>Studying Btech at KIIT Bhubaneswer</a>
 - 💻  Mastering C++ and Javascript
-- ‎ 💡‎ Completely open to new project ideas and suggestions
+- ‎💡‎  Completely open to new project ideas and suggestions
 - ‎ <a href="https://www.liverpoolfc.com/"><img width=13 src="https://media.tenor.com/YYlipIRSsuoAAAAi/liverpool-champions.gif">‎</a> ‎ ‎Love to watch football and other sports
 ## **✔ My Skills**
 <p align="center" ><img src="https://skillicons.dev/icons?i=java,c,cpp,js,nodejs,vim&theme=dark"></p>
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitdey-marsh&theme=radical&hide_border=true"/>
 </p>
+<br>
 
 ## Socials
+<a href="https://www.instagram.com/anxit_dxy/"><img align="left" alt="bilgehangecici | Instagram" width="50px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif"></a>
+<a href="https://www.facebook.com/profile.php?id=100013440330759"><img align="left" alt="bilgehangecici | Facebook" width="50px" src="https://i.imgur.com/26xiPcn.gif"></a>
+<a href="https://twitter.com/MarshDit"><img align="left" alt="bilgehangecici | Twitter" width="50px" src="https://i.imgur.com/w42W6Bm.gif"></a>
