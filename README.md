@@ -6,4 +6,4 @@
 <img align="right" width=450 src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966 ">
 
 - <a href="kiit.ac.in">🎓 </a>Studying Btech at KIIT Bhubaneswer</a>
-- ‎ <a href="[www.liverpoolfc.com](https://www.liverpoolfc.com/)"><img width=13 src="https://media.tenor.com/YYlipIRSsuoAAAAi/liverpool-champions.gif">‎</a> ‎ ‎Love to watch football and other sports
+- ‎ <a href="https://www.liverpoolfc.com/"><img width=13 src="https://media.tenor.com/YYlipIRSsuoAAAAi/liverpool-champions.gif">‎</a> ‎ ‎Love to watch football and other sports
