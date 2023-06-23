@@ -2,8 +2,18 @@
 <h3 align="center">Hi I am Ankit Dey <img width=2.5% src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif">. I have huge interest in development and coding. It is nice to have you here.
 </h3>
 
-## <img width= 4% src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966 "> **About Me:**
+## <img width= 4% src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966 "> **About Me**
 <img align="right" width=450 src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966 ">
 
-- <a href="kiit.ac.in">🎓 </a>Studying Btech at KIIT Bhubaneswer</a>
+
+- <a href="https://kiit.ac.in/">🎓 </a>Studying Btech at KIIT Bhubaneswer</a>
+- 💻  Mastering C++ and Javascript
+- ‎ 💡‎ Completely open to new project ideas and suggestions
 - ‎ <a href="https://www.liverpoolfc.com/"><img width=13 src="https://media.tenor.com/YYlipIRSsuoAAAAi/liverpool-champions.gif">‎</a> ‎ ‎Love to watch football and other sports
+## **✔ My Skills**
+<p align="center" ><img src="https://skillicons.dev/icons?i=java,c,cpp,js,nodejs,vim&theme=dark"></p>
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitdey-marsh&theme=radical&hide_border=true"/>
+</p>
+
+## Socials
