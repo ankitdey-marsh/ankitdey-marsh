@@ -21,4 +21,4 @@
 ## Socials
 <a href="https://www.instagram.com/anxit_dxy/"><img align="left" alt="bilgehangecici | Instagram" width="50px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif"></a>
 <a href="https://www.facebook.com/profile.php?id=100013440330759"><img align="left" alt="bilgehangecici | Facebook" width="50px" src="https://i.imgur.com/26xiPcn.gif"></a>
-<p><a href="https://twitter.com/MarshDit"><img align="left" alt="bilgehangecici | Twitter" width="50px" src="https://i.imgur.com/w42W6Bm.gif"></a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎ -And thats about it folks . Follow along on my journey ✌️.</p>
+<p><a href="https://twitter.com/MarshDit"><img align="left" alt="bilgehangecici | Twitter" width="50px" src="https://i.imgur.com/w42W6Bm.gif"></a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ -And thats about it folks . Follow along on my journey ✌️.</p>
