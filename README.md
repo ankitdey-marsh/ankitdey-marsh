@@ -12,9 +12,9 @@
 - ‎ <a href="https://www.liverpoolfc.com/"><img width=13 src="https://media.tenor.com/YYlipIRSsuoAAAAi/liverpool-champions.gif">‎</a> ‎ ‎Love to watch football and other sports
 ## **✔ My Skills**
 <p align="center" ><img src="https://skillicons.dev/icons?i=java,cpp,python,git,nodejs,vim&theme=dark"></p>
-<p align="center">
+<!-- <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitdey-marsh&theme=radical&hide_border=true"/>
-</p>
+</p> -->
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitdey-marsh&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
 
