@@ -7,7 +7,7 @@
 
 
 - <a href="https://kiit.ac.in/">🎓 </a>Studying Btech at KIIT Bhubaneswer</a>
-- 💻  Love C++ and Python
+- 💻  Love DevOps
 - ‎💡‎  Completely open to new project ideas and suggestions
 - ‎ <a href="https://www.liverpoolfc.com/"><img width=13 src="https://media.tenor.com/YYlipIRSsuoAAAAi/liverpool-champions.gif">‎</a> ‎ ‎Love to watch football and other sports
 ## **✔ My Skills**
