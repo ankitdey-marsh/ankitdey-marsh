@@ -16,7 +16,7 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitdey-marsh&theme=radical&hide_border=true"/>
 </p> -->
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitdey-marsh&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitdey-marsh&label=Visitors&color=0088cc&style=flat-square" alt="ankit dey" /> </p>
 
 ## Socials
 <a href="https://www.instagram.com/anxit_dxy/"><img align="left" alt="bilgehangecici | Instagram" width="50px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif"></a>
