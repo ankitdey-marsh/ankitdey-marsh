@@ -2,7 +2,7 @@
 <h3 align="center">Hi I am Ankit Dey <img width=2.5% src="https://media.tenor.com/e3GqicbfhMYAAAAi/get-greeting-get-greetings.gif">. I have huge interest in development and coding. It is nice to have you here.
 </h3>
 
-## 💻**About Me**
+## 💻 **About Me**
 
 
 
