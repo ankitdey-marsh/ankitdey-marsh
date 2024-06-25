@@ -11,7 +11,7 @@
 - ‎💡‎  Completely open to new project ideas and suggestions
 - ‎ <a href="https://www.liverpoolfc.com/"><img width=13 src="https://media.tenor.com/YYlipIRSsuoAAAAi/liverpool-champions.gif">‎</a> ‎ ‎Love to watch football and other sports
 ## **✔ My Skills**
-<p align="center" ><img src="https://skillicons.dev/icons?i=java,c,cpp,python,git,docker,kubernetes,bash,golang,mongodb,mysql,vim,html,css,javascript,react,tailwind,flask&theme=dark"></p>
+<p align="center" ><img src="https://skillicons.dev/icons?i=java,c,cpp,python,git,docker,kubernetes,bash,golang,selenium,mongodb,mysql,vim,html,css,javascript,react,tailwind,flask&theme=dark"></p>
 <!-- <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitdey-marsh&theme=radical&hide_border=true"/>
 </p> -->
